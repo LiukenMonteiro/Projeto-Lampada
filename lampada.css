@@ -7,3 +7,10 @@ header, main {
 button {
     width: 80px;
 }
+
+footer {
+    margin: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
